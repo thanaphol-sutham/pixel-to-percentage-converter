@@ -1,2 +1,2 @@
-# pixel-to-percentage-converter-webapp
+# pixel-to-percentage-converter
 Pixel-to-percentage-converter-webapp
